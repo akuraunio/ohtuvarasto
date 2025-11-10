@@ -1,9 +1,5 @@
 from varasto import Varasto
 
-def turha_funktio():
-    return 1
-    return 2
-
 def main():
     mehua = Varasto(100.0)
     olutta = Varasto(100.0, 20.2)
